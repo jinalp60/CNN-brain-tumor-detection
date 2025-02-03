@@ -1,0 +1,7 @@
+# input folder contains training and testing images which is retrieved from kaggle 
+# kaggle link: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data
+/input 
+
+
+# notes 
+/notes
